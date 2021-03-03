@@ -18,11 +18,11 @@ A business in Oahu would like some analysis on the temperatures in June and Dece
 ##### The analysis results were: 
 - Temperature in June and Decembers are very similar and are within 3 degrees of each other.
 - Temperature high in June is perfect for surfing and or having some ice cream: 
-- 
+
 ![Temperatures in June](https://github.com/JoePedroza/surfs_up/blob/main/June_Temperatures.png)
 
 - Temperature in December will be able to sustain the surfs up business: 
-- 
+
 ![Temperature in December](https://github.com/JoePedroza/surfs_up/blob/main/December_Temperatures.png)
 
 ## Surfs Up Analysis Summary
