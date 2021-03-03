@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs_Up
 A site using Flask and SQLite
 
 
@@ -16,11 +16,16 @@ A business in Oahu would like some analysis on the temperatures in June and Dece
 
 ## Results
 ##### The analysis results were: 
-- Temperature in June and Decembers are very similar.
-- Temperature in June: ![Temperatures in June](https://github.com/JoePedroza/surfs_up/blob/main/June_Temperatures.png)
-- Temperature in December: ![Temperature in December](https://github.com/JoePedroza/surfs_up/blob/main/December_Temperatures.png)
+- Temperature in June and Decembers are very similar and are within 3 degrees of each other.
+- Temperature high in June is perfect for surfing and or having some ice cream: 
+- 
+![Temperatures in June](https://github.com/JoePedroza/surfs_up/blob/main/June_Temperatures.png)
+
+- Temperature in December will be able to sustain the surfs up business: 
+- 
+![Temperature in December](https://github.com/JoePedroza/surfs_up/blob/main/December_Temperatures.png)
 
 ## Surfs Up Analysis Summary
 
-This analysis shows that June and December.
+This analysis shows that June and December are very similar and would be able to sustain a surf and ice cream shop for all tourist and locals.  Hawaii is a vacation destination and allows people to get away and enjoy some relaxation.  A Surfs up shop would be great.
 
