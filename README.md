@@ -17,8 +17,8 @@ A business in Oahu would like some analysis on the temperatures in June and Dece
 ## Results
 ##### The analysis results were: 
 - Temperature in June and Decembers are very similar.
-- Temperature in June: ![Temperature in June] (June_Temperatures.png)
-- Temperature in December: ![Temperature in December] (December_Temperatures.png)
+- Temperature in June: ![Temperatures in June](https://github.com/JoePedroza/surfs_up/blob/main/June_Temperatures.png)
+- Temperature in December: ![Temperature in December](https://github.com/JoePedroza/surfs_up/blob/main/December_Temperatures.png)
 
 ## Surfs Up Analysis Summary
 
